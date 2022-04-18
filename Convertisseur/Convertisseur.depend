@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649432180 source:c:\users\hermann\documents\code\convertisseur\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
